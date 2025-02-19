@@ -95,3 +95,6 @@ If you're still confused, don’t worry! Watch **Professor Messer’s "Seven Sec
 
 ✅ **Keep practicing, and subnetting will become second nature!** 🚀
 
+🛠️ Online Subnet Calculator
+Here is a simple online subnet calculator made by David C:  **[Subnet Calculator](https://www.davidc.net/sites/default/subnets/subnets.html)**
+
